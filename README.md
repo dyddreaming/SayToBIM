@@ -1,5 +1,5 @@
 # SayToBIM
-Say to BIM, Say to Metaverse——解放你的双手，说出你的想法，BIM模型不请自来，城市元宇宙任君建构！
+Say to BIM, Say to Metaverse以设计院、施工单位、各大高校等有BIM建模、设计与施工信息可视化、构建城市元宇宙等需求为目标客户群体。我们打破局限于鼠标键盘输入的传统三维建模交互方式，我们将提供一种基于语音识别、手势识别的沉浸式三维建模系统、基于语音、文字识别的生产施工信息智能导入系统、城市建筑信息快速查询平台等三位一体的三维建模元宇宙智能化信息平台，该平台能够在土木建筑设计、施工、运营全过程全周期发挥其作用，为人类生产与生活带来便利。
 ## app.py
 实现文字交互、语音交互接口封装
 ## Chat.py
@@ -23,7 +23,7 @@ Say to BIM, Say to Metaverse——解放你的双手，说出你的想法，BIM�
 
 
 # SayToBIM
-Say to BIM, Say to Metaverse - Free your hands, express your ideas, BIM models come uninvited, and the urban metaverse is built by you!
+Say to BIM, Say to Metaverse target customer groups with BIM modeling, design and construction information visualization, and the construction of urban metaverse needs from design institutes, construction units, major universities, etc. We will break away from the traditional 3D modeling interaction method limited to mouse and keyboard input, and provide an immersive 3D modeling system based on speech recognition and gesture recognition, an intelligent import system for production and construction information based on speech and text recognition, and a rapid query platform for urban building information. This platform is a three-dimensional modeling metaverse intelligent information platform that can be used in civil architecture design, construction The entire operation process plays its role throughout the entire cycle, bringing convenience to human production and life.
 ## App.py
 Implement encapsulation of text interaction and voice interaction interfaces
 ## Chat.py
